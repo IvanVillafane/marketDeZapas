@@ -1,0 +1,60 @@
+
+*{
+  margin: 0;
+  padding:0;
+  border:0;
+}
+
+
+
+.App {
+  text-align: left;
+}
+
+
+
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction:row;
+  align-items: rigth;
+  justify-content: rigth;
+  font-size: calc(1rem + 1vmin);
+  color: white;
+}
+
+.listStyle{
+  list-style: none;
+  background-color: black;
+  color:white;
+  text-decoration: none;
+  display: start;
+  padding: 1rem;
+  
+
+}
+
+
+
+a {
+  text-decoration: none;
+    color: white;
+    padding: 8px;
+}
+
+.imgCart{
+  height: 20px;
+}
+
+
+.active{
+  color: orange;
+}
+
+
+
+
+.button{
+ width: 40px;
+}
